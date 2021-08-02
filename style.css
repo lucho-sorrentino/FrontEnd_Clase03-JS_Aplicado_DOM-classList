@@ -1,0 +1,13 @@
+body {
+    background-color: darkblue;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgray;
+}
+
+.red {
+    color: red;
+}
+
+.fondo-verde {
+    background-color: greenyellow;
+}

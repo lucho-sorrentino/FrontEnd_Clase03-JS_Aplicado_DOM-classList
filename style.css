@@ -8,6 +8,49 @@ body {
     color: red;
 }
 
+.green {
+    color: green;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.white {
+    color: white;
+}
+
+.rojo {
+    color: red;
+}
+
+.verde {
+    color:green;
+}
+
+.amarillo {
+    color:yellow;
+}
+
 .fondo-verde {
     background-color: greenyellow;
+}
+
+.celeste {
+    background-color: darkcyan;
+}
+
+.white-font {
+    color: white;
+    font-weight: bold;
+}
+
+.nuevo {
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.antiguo {
+    font-size: small;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
